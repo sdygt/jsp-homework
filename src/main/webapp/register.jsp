@@ -7,7 +7,7 @@
     <title>Register</title>
 </head>
 <body>
-<h2>Register </h2>
+<h2>Register</h2>
 
 <s:form action="register">
     <s:textfield name="userBean.username" label="username"/>
